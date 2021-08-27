@@ -28,6 +28,7 @@ public class User {
     private String firstName;
     private String lastName;
     private String profileTitle;
+    private String profileImageUrl;
     private String aboutMe;
     private String email;
     private String password;
